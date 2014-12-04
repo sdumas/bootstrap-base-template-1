@@ -233,3 +233,10 @@ header .container .navbar-collapse.collapse .nav.profile > li > a {
 .navbar .container {
   width: 100%;
   max-width: 1600px; }
+
+.navbar .dropdown-menu {
+  box-shadow: none; }
+
+@media (max-width: 768px) {
+  .dropdown-menu {
+    position: static !important; } }

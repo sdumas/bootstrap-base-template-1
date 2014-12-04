@@ -23,6 +23,6 @@ $(window).resize(function () {
 
 jQuery(document).ready(function(){
   $(".dropdown").click(
-    function() { $('.dropdown-menu', this).fadeToggle("fast");
+    function() { $('.dropdown-menu', this).slideToggle("fast");
   });
 });
