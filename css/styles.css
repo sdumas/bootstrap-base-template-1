@@ -168,6 +168,7 @@ header .container .navbar-collapse.collapse .nav.profile > li > a {
 
   header .container .navbar-collapse.collapse {
     padding: 0px; } }
+/*# sourceMappingURL=_offcanvas.css.map */
 .menu-large {
   position: static !important; }
 
@@ -239,4 +240,8 @@ header .container .navbar-collapse.collapse .nav.profile > li > a {
 
 @media (max-width: 768px) {
   .dropdown-menu {
-    position: static !important; } }
+    position: static !important; }
+
+  body {
+    background-color: #222; } }
+/*# sourceMappingURL=_megamenu.css.map */
